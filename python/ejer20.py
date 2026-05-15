@@ -1,5 +1,5 @@
 usuario= "jose"
-contraseña=2233
+contraseña=223
 
 if usuario == "jose" and contraseña == "2233":
     print("Bienvenido, " , usuario , "!")

@@ -1,5 +1,5 @@
 usuario= "juan"
-contraseña=123
+contraseña=1234
 
 if (usuario == "juan" && contraseña == "1234") {
     console.log("Bienvenido, " + usuario + "!");
